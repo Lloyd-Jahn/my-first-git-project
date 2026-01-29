@@ -1,7 +1,6 @@
 # My First Git Project
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/YourUsername/my-first-git-project)](https://github.com/YourUsername/my-first-git-project/issues)
 
 ---
 
